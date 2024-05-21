@@ -1,0 +1,12 @@
+.request-song-button {
+    background-color: #0073aa;
+    color: #ffffff;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 3px;
+    margin-left: 10px;
+}
+
+.request-song-button:hover {
+    background-color: #005177;
+}
